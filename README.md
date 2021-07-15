@@ -1,5 +1,7 @@
 # IBM Full Stack Cloud Developer Professional Certificate Projects <br>
 ## This repository will hold the projects for the following Coursera courses: <br>
+### Course 1 - Introduction to Cloud Computing <br>
+  > > No projects assigned.
 ### Course 2 - Introduction to Cloud Development with HTML, CSS, JavaScript <br>
   > > The final project for this course, coded in HTML5, CSS3, and JavaScript, is a **Simple Interest Calculator** web application named **Everyone Can Get Rich**.<br><br>
   > > It can be found at the following URL: https://lllichtenstein.github.io/vftvk-Simple-Interest-Calculator/ <br><br>
