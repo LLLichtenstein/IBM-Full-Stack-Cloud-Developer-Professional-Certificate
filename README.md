@@ -37,7 +37,10 @@ It can be found at the following URL: https://lllichtenstein.github.io/vftvk-Sim
 ### Course 5 - Introduction to Containers w/ Docker, Kubernetes & OpenShift <br>
 > > in progress
 ### Course 6 - Python for Data Science, AI & Development <br>
-> > I did this in the other certificate
+> > For this project titled, **Analyzing US Economic Data and Building a Dashboard**, I extracted economic data from GDP and unemployment datasets. The impact of changes in GDP impacts the unemployment rate is displayed in a dashboard.
+> >
+> > Jupyter Notebook URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%204%20Final%20Project%20Jupyter%20notebook.ipynb <br>
+> > Final Dashbook URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%204%20Final%20Project%20Dashboard.jpg
 ### Course 7 - Python Project for AI & Application Development <br>
 > > in progress
 ### Course 8 - Developing Applications with SQL, Databases, and Django <br>
