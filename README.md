@@ -4,7 +4,10 @@
 > > Description adapted from https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer?page=2
 ## Certificate Course Projects: <br>
 ### Course 1 - Introduction to Cloud Computing <br>
- > > No projects assigned.
+> > This course introduces students to the core concepts of cloud computing whereby they gain the foundational knowledge required to understand cloud computing from a business perspective and as a cloud practitioner. Furthermore, students come to understand the definition and essential characteristics of cloud computing, its history, the business case for cloud computing, and emerging technology use-cases enabled by cloud. Prominent service providers (e.g. AWS, Google, IBM, Microsoft, etc.) are introduced along with the services they offer. Case studies of cloud computing across industry verticals are considered. Specifically, cloud service models (IaaS, PaaS, SaaS) and deployment models (Public, Private, Hybrid) and the key components of a cloud infrastructure (VMs, Networking, Storage - File, Block, Object, CDN) are covered. In addition, emergent cloud trends and practices including - Hybrid Multicloud, Microservices, Serverless, DevOps, Cloud Native and Application Modernization are also covered as well as the basics of cloud security, monitoring, and different job roles in the cloud industry. <br><br>
+ > > No projects assigned.<br><br>
+ > > Course Certificate: https://www.coursera.org/account/accomplishments/verify/F8VFE8BB4HS6<br>
+ > > Description adapted from https://www.coursera.org/learn/introduction-to-cloud/home/info
 ### Course 2 - Introduction to Cloud Development with HTML, CSS, JavaScript <br>
 > > The final project for this course, coded in HTML5, CSS3, and JavaScript, is a **Simple Interest Calculator** web application named *Everyone Can Get Rich*.<br><br>
 It can be found at the following URL: https://lllichtenstein.github.io/vftvk-Simple-Interest-Calculator/ <br><br>
