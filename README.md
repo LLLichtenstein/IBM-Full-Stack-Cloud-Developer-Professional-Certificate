@@ -9,37 +9,35 @@
  > > Course Certificate: https://www.coursera.org/account/accomplishments/verify/F8VFE8BB4HS6<br>
  > > Description adapted from https://www.coursera.org/learn/introduction-to-cloud/home/info
 ### Course 2 - Introduction to Cloud Development with HTML, CSS, JavaScript <br>
-> > This course leads students through the languages and tools needed to develop cloud applications. Students learn how internet servers and clients work together to deliver applications to users. The course introduces at a high level application development in the Cloud; that is, front-end, back-end, and full-stack development. In addition, it focuses on the languages employed for front-end development, HTML, CSS, and JavaScript as well as tools that store projects and keep track of changes made to project files, such as Git and GitHub.<br><br>
+> > This course leads students through the languages and tools needed to develop cloud applications. Students learn how internet servers and clients work together to deliver applications to users. The course introduces at a high level application development in the Cloud; that is, front-end, back-end, and full-stack development. In addition, it focuses on the languages employed for front-end development - HTML, CSS, and JavaScript - as well as tools that store projects and keep track of changes made to project files, such as Git and GitHub.<br><br>
 > > In this project scenario I am a web developer for an NGO tasked with completing an unfinished web application to look and function like that given in the requirements. Everyone Can Get Rich is a non-governmental charity organization. This NGO works to improve the financial literacy of the common people. They have hired a developer to create an online application. This app, Simple Interest Calculator, coded in HTML5, CSS3, and JavaScript computes the interest one can earn given the amount to save, the number of years to keep it with the bank and the interest rate the bank will pay. The NGO is very particular about the way the app looks including the colors and the alignment of the form elements.<br>
 > > Assignment URL: https://lllichtenstein.github.io/vftvk-Simple-Interest-Calculator/ <br><br>
 > > Course Certificate: https://www.coursera.org/account/accomplishments/verify/JRWUWXBXHZ9M<br>
 > > Description adapted from https://www.coursera.org/learn/introduction-to-cloud-development-with-html-css-javacript/home/info
 ### Course 3 - Developing Cloud Native Applications <br>
-> > The final project for this course, **Movie Reviews Database**, is an IBM Cloudant connected, Continuous Integration/Continuous Delivery-enabled (CI/CD) application; it can be found at https://movies-reviews-database-7b7.mybluemix.net/.<br><br>
+> >  Students learn about tools and techniques for developing cloud native apps; that is, building, deploying, testing, and running web applications in IBM Cloud. Specifically, they learn the command-line interface (CLIs) to develop, test, and deploy a Node.js application and relevant services for both IBM Cloud and Cloud Foundry. In addition, they learn the steps for enabling integrated continuous delivery toolchains to automate application builds, deployment, and monitoring.<br><br>
+> > The final project for this course, Movie Reviews Database, is an IBM Cloudant connected, Continuous Integration/Continuous Delivery-enabled (CI/CD) application.
 > > In this project scenario, I am a developer for a site that allows the general public to review movies. The site sorts the reviews into color categories depending on their general tone. The previous developer wrote the basic code and stored it in GitHub, but has left the company without warning; I have been engaged to complete the work. My task is to refine the existing code and host the application on Cloud. I have chosen IBM Cloud and Cloud Foundry. Following cloud native best practices, I have decided to enable CI/CD to ensure any changes made in the future will be automatically deployed to the application. To achieve this, I forked the GitHub code to my own repo, created the required services in my IBM Cloud account and connected those services to the application. Originally negative movie reviews appeared in orange. To test the CI/CD configuration, negative reviews are changed from orange to red, and the color change is verified.<br><br>
 > > Steps taken to complete this project:<br>
-**Part A: Create Natural Language Understanding and Cloudant Services on IBM Cloud**<br>
-> > &emsp; Create an instance of the Cloudant service.<br>
-> > &emsp; Create an instance of the Natural Language Understanding (NLU) service.<br>
-**Part B: Deploy an Application to Cloud Foundry**<br>
-> > &emsp; Create a Node.js application with the Cloud Foundry service.<br>
-**Part C: Connect IBM Cloud Services to Cloud Foundry Applications**<br>
-> > &emsp; Connect the Cloudant service to the Node.js application.<br>
-> > &emsp; Connect the NLU service to the Node.js application.<br>
-> > &emsp; Restage the application.<br>
-**Part D: Deploy an Application to Cloud Foundry**<br>
+Part A: Create Natural Language Understanding and Cloudant Services on IBM Cloud<br>
+Part B: Create a Node.js application with the Cloud Foundry service.<br>
+Part C: Connect IBM Cloud Services - Cloudant and NLU - to the Cloud Foundry application (Node.js application)<br>
+Part D: Deploy an Application to Cloud Foundry<br>
 > > &emsp; Fork the project repository into my GitHub account.<br>
 > > &emsp; Open the IBM Cloud Shell and Clone my fork.<br>
 > > &emsp; Make the required changes in the manifest.yml file.<br>
 > > &emsp; Push the application to IBM Cloud using the CLI.<br>
-**Part E: Create CI/CD Pipeline**<br>
+Part E: Create CI/CD Pipeline<br>
 > > &emsp; Create an instance of the Continuous Delivery service.<br>
 > > &emsp; Create a toolchain and delivery pipeline.<br>
 > > &emsp; Configure the toolchain to use my GitHub repository.<br>
-**Part F: Deliver Changes Using CI/CD**<br>
+Part F: Deliver Changes Using CI/CD**<br>
 > > &emsp; Make the required Node.js application source code changes.<br>
 > > &emsp; Push the changes to the repository.<br>
 > > &emsp; Confirm that the application was refreshed.<br>
+> > Assignment URL: https://movies-reviews-database-7b7.mybluemix.net/<br><br>
+> > Course Certificate: https://www.coursera.org/account/accomplishments/verify/6NFD6Y5HLEK5<br>
+> > Description adapted from https://www.coursera.org/learn/developing-cloud-native-applications/home/info
 ### Course 4 - Developing Cloud Apps with Node.js and React <br>
 > > in progress
 ### Course 5 - Introduction to Containers w/ Docker, Kubernetes & OpenShift <br>
@@ -57,7 +55,7 @@
 > > For this assignment, I am a data analyst working at a real estate investment trust which invests in residential real estate. I am tasked with determining the market price of homes given a set of features such as square footage, number of bedrooms, number of floors, etc. Using IBM Watson Studio, I analyze and predict housing prices by fitting these attributes or features to a Linear Regression model. The dataset used contains house sale prices for King County, which includes Seattle, for homes sold between May 2014 and May 2015.<br>
 > > Assignment URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%206%20Final%20Project%20Jupyter%20notebook.ipynb<br><br>
 > > Course Certificate: https://www.coursera.org/account/accomplishments/verify/URYL6QJ99R6G<br>
-> > Description adapted from https://www.coursera.org/learn/data-analysis-with-python/home/info
+> > Description adapted from https://www.coursera.org/learn/data-analysis-with-python/home/info, https://www.coursera.org/learn/developing-cloud-native-applications/home/week/2, https://www.coursera.org/learn/developing-cloud-native-applications/home/week/3, https://www.coursera.org/learn/developing-cloud-native-applications/home/week/4
 ### Course 7 - Python Project for AI & Application Development <br>
 > > in progress
 ### Course 8 - Developing Applications with SQL, Databases, and Django <br>
