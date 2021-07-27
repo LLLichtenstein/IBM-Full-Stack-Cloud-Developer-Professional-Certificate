@@ -1,4 +1,7 @@
 # IBM Full Stack Cloud Developer Professional Certificate on Coursera <br>
+> >This professional certificate teaches students how to build their own cloud-based applications and provides them the opportunity to practice working with the technologies behind those applications on a cloud platform using Cloud Native methodologies. Practical skills in tools and technologies that successful software developers use to build, deploy, test, run, and manage Full Stack Cloud Native applications are covered. Students develop skill sets in a variety of front-end and back-end technologies including: Cloud foundations, HTML, CSS, JavaScript, GitHub, Node.js, React, Cloud Native practices, DevOps, CI/CD, Containers, Docker, Kubernetes, OpenShift, Istio, Python programming, Databases, SQL, NoSQL, Django ORM, Bootstrap, Application Security, Microservices, Serverless computing, and more. 
+> > Course Certificate: in progress<br>
+> > Description adapted from https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer?page=2
 ## Certificate Course Projects: <br>
 ### Course 1 - Introduction to Cloud Computing <br>
  > > No projects assigned.
