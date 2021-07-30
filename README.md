@@ -43,19 +43,7 @@ Part F: Deliver Changes Using CI/CD**<br>
 ### Course 5 - Introduction to Containers w/ Docker, Kubernetes & OpenShift <br>
 > > in progress
 ### Course 6 - Python for Data Science, AI & Development <br>
-> > Students learn how to analyze data using python from the basics of python to exploring different types of data including data preparation, simple statistical analysis, data visualization, and future trend prediction.<br>
-> > Topics covered include:<br>
-> > &emsp; 1. Importing datasets<br>
-> > &emsp; 2. Cleaning the data<br>
-> > &emsp; 3. Data frame manipulation<br>
-> > &emsp; 4. Summarizing the data<br>
-> > &emsp; 5. Building machine learning Regression models<br>
-> > &emsp; 6. Building data pipelines<br>
-> >Students learn to use pandas, NumPy and SciPy libraries to work with a sample dataset. Specifically, pandas is used to load, manipulate, analyze, and visualize datasets, and scikit-learn machine learning algorithms are used to build smart models and make predictions.<br><br>
-> > For this assignment, I am a data analyst working at a real estate investment trust which invests in residential real estate. I am tasked with determining the market price of homes given a set of features such as square footage, number of bedrooms, number of floors, etc. Using IBM Watson Studio, I analyze and predict housing prices by fitting these attributes or features to a Linear Regression model. The dataset used contains house sale prices for King County, which includes Seattle, for homes sold between May 2014 and May 2015.<br>
-> > Assignment URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%206%20Final%20Project%20Jupyter%20notebook.ipynb<br><br>
-> > Course Certificate: https://www.coursera.org/account/accomplishments/verify/URYL6QJ99R6G<br>
-> > Description adapted from https://www.coursera.org/learn/data-analysis-with-python/home/info
+> > in progress
 ### Course 7 - Python Project for AI & Application Development <br>
 > > in progress
 ### Course 8 - Developing Applications with SQL, Databases, and Django <br>
