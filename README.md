@@ -45,7 +45,7 @@ Part F: Deliver Changes Using CI/CD**<br>
 ### Course 6 - Python for Data Science, AI & Development <br>
 > > in progress
 ### Course 7 - Python Project for AI & Application Development <br>
-> > in progress
+> > in progress, https://github.com/LLLichtenstein/xzceb-flask_eng_fr
 ### Course 8 - Developing Applications with SQL, Databases, and Django <br>
 > > in progress
 ### Course 9 - Application Development using Microservices and Serverless <br>
