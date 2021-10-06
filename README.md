@@ -46,6 +46,25 @@ Part F: Deliver Changes Using CI/CD**<br>
 > > in progress
 ### Course 7 - Python Project for AI & Application Development <br>
 > > in progress, https://github.com/LLLichtenstein/xzceb-flask_eng_fr
+> > Prework: Sign up for IBM Cloud Lite account and create a Watson Language Translator service.
+
+Final Project:
+Create an IBM Cloud Lite account, if you don't have one already.
+Create an instance of the Watson Language Translator.
+Create Python Server side
+
+Fork and clone the skeleton project on your GitHub.
+Create an instance of the Watson Language Translator in the translator.py
+Create two functions, one to translate from English to French and the othet to translate from French to English in translator.py
+Write unit tests to test the two functions
+Run coding standards check against the two functions
+Run unit tests and ensure the tests pass.
+Package the above functions and tests as a standard python package
+Import the package in server.py. Create two end points in server.py /englishToFrench and /frenchToEnglish and test them on local server.
+Deploy the application on IBM Cloud.
+Deploy the server application
+
+Deploy the server application so that it is accessible through browser
 ### Course 8 - Developing Applications with SQL, Databases, and Django <br>
 > > in progress
 ### Course 9 - Application Development using Microservices and Serverless <br>
