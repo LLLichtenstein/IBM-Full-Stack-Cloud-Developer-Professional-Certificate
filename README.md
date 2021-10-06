@@ -46,6 +46,11 @@ Part F: Deliver Changes Using CI/CD**<br>
 > > in progress
 ### Course 7 - Python Project for AI & Application Development <br>
 > > in progress, https://github.com/LLLichtenstein/xzceb-flask_eng_fr
+
+This mini-course is intended to apply foundational Python skills by implementing different techniques to develop applications and AI powered solutions. Assume the role of a developer and unit test and package an application with the help of multiple hands-on labs. After completing this course you will have acquired the confidence to begin developing AI enabled applications using Python, build and run unit tests, and package the application for distribution.
+
+PRE-REQUISITE: **Python for Data Science, AI and Development** course from IBM is a pre-requisite for this project course. Please ensure that before taking this course you have either completed the Python for Data Science, AI and Development course from IBM or have equivalent proficiency in working with Python and data.
+
 > > Prework: Sign up for IBM Cloud Lite account and create a Watson Language Translator service.
 
 Final Project:
