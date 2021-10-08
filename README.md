@@ -45,31 +45,11 @@ Part F: Deliver Changes Using CI/CD**<br>
 ### Course 6 - Python for Data Science, AI & Development <br>
 > > in progress
 ### Course 7 - Python Project for AI & Application Development <br>
-> > in progress, https://github.com/LLLichtenstein/xzceb-flask_eng_fr
-
-This mini-course is intended to apply foundational Python skills by implementing different techniques to develop applications and AI powered solutions. Assume the role of a developer and unit test and package an application with the help of multiple hands-on labs. After completing this course you will have acquired the confidence to begin developing AI enabled applications using Python, build and run unit tests, and package the application for distribution.
-
-PRE-REQUISITE: **Python for Data Science, AI and Development** course from IBM is a pre-requisite for this project course. Please ensure that before taking this course you have either completed the Python for Data Science, AI and Development course from IBM or have equivalent proficiency in working with Python and data.
-
-> > Prework: Sign up for IBM Cloud Lite account and create a Watson Language Translator service.
-
-Final Project:
-Create an IBM Cloud Lite account, if you don't have one already.
-Create an instance of the Watson Language Translator.
-Create Python Server side
-
-Fork and clone the skeleton project on your GitHub.
-Create an instance of the Watson Language Translator in the translator.py
-Create two functions, one to translate from English to French and the othet to translate from French to English in translator.py
-Write unit tests to test the two functions
-Run coding standards check against the two functions
-Run unit tests and ensure the tests pass.
-Package the above functions and tests as a standard python package
-Import the package in server.py. Create two end points in server.py /englishToFrench and /frenchToEnglish and test them on local server.
-Deploy the application on IBM Cloud.
-Deploy the server application
-
-Deploy the server application so that it is accessible through browser
+> > This mini-course applies foundational Python skills by implementing the IBM Cloud AI service Watson Language Translator and the microweb framework Flask to develop a web application to translate English to French and vice versa. The course also includes unit testing, Static Code Analysis with Pylint, and python packaging. <br><br> 
+> > For the final project, I assume the role of a developer for an IT services company which has just won a big project with a hotel in Quebec, Canada serving customers with a large French-speaking population. Since communication will also occur in English, there is a need to provide the ability to translate between the two languages. I developed a server with end points that allow translation from English to French and from French to English. I was given a skeleton structure, on top of which I built the functionality in python, Flask, and Watson Language Translator. I unit tested the code, ran a coding standards check with Pylint, and packaged the application.<br><br>
+> > Assignment URL: 
+> > Course Certificate: 
+> > Description adapted from 
 ### Course 8 - Developing Applications with SQL, Databases, and Django <br>
 > > in progress
 ### Course 9 - Application Development using Microservices and Serverless <br>
