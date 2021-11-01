@@ -43,7 +43,13 @@ Part F: Deliver Changes Using CI/CD**<br>
 ### Course 5 - Introduction to Containers w/ Docker, Kubernetes & OpenShift <br>
 > > in progress
 ### Course 6 - Python for Data Science, AI & Development <br>
-> > in progress
+### Course 4 - Python for Data Science and AI <br>
+> > Students learn python fundamentals including data structures and data analysis. They work with data via hands-on exercises throughout the course modules, and create a final project to solve a real-world problem.<br><br>
+> > For this project I extracted economic data from GDP (Gross Domestic Product) and unemployment datasets. The impact of changes in GDP impacts the unemployment rate is displayed in a dashboard.<br>
+> > Jupyter Notebook URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%204%20Final%20Project%20Jupyter%20notebook.ipynb <br><br>
+> > Final Dashboard URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%204%20Final%20Project%20Dashboard.jpg<br><br>
+> > Course Certificate: https://www.coursera.org/account/accomplishments/verify/3K4PHG3E7NJ3<br>
+> > Description adapted from https://www.coursera.org/learn/python-for-applied-data-science-ai/home/info
 ### Course 7 - Python Project for AI & Application Development <br>
 > > This mini-course applies foundational Python skills by implementing the IBM Cloud AI service Watson Language Translator and the microweb framework Flask to develop a web application to translate English to French and vice versa. The course also includes unit testing, Static Code Analysis with Pylint, and python packaging. <br><br> 
 > > For the final project, I assume the role of a developer for an IT services company which has just won a big project with a hotel in Quebec, Canada serving customers with a large French-speaking population. Since communication will also occur in English, there is a need to provide the ability to translate between the two languages. I developed a server with end points that allow translation from English to French and from French to English. I was given a skeleton structure, on top of which I built the functionality in python, Flask, and Watson Language Translator. I unit tested the code, ran a coding standards check with Pylint, and packaged the application.<br><br>
