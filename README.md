@@ -43,7 +43,6 @@ Part F: Deliver Changes Using CI/CD**<br>
 ### Course 5 - Introduction to Containers w/ Docker, Kubernetes & OpenShift <br>
 > > in progress
 ### Course 6 - Python for Data Science, AI & Development <br>
-### Course 4 - Python for Data Science and AI <br>
 > > Students learn python fundamentals including data structures and data analysis. They work with data via hands-on exercises throughout the course modules, and create a final project to solve a real-world problem.<br><br>
 > > For this project I extracted economic data from GDP (Gross Domestic Product) and unemployment datasets. The impact of changes in GDP impacts the unemployment rate is displayed in a dashboard.<br>
 > > Jupyter Notebook URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%204%20Final%20Project%20Jupyter%20notebook.ipynb <br><br>
